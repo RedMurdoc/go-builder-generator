@@ -1,4 +1,4 @@
-module go-builder-generator
+module github.com/RedMurdoc/go-builder-generator
 
 go 1.20
 
